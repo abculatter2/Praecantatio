@@ -1,0 +1,21 @@
+[
+{
+  "modid": "praecantatio",
+  "name": "Praecantatio",
+  "description": "Believing the believable.",
+  "version": "B79-0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Abculatter_2"
+  ],
+  "credits": "The enderman standing behind you.",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
